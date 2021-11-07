@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Demo</title>
+  <style>
+    figure { display: inline-block; }
+  </style>
+</head>
+<body>
+  <div>
+    <figure>
+      <nft-guard>
+        <img src="chimp-1.jpg" alt="" />
+      </nft-guard>
+      <figcaption>
+        <a href="https://www.flickr.com/photos/chesterzoo/3570336722" target="_blank">
+          &copy; Chester Zoo under CC-license
+        </a>
+      </figcaption>
+    </figure>
+
+    <figure>
+      <nft-guard>
+        <picture>
+          <source media="(min-width: 0)" srcset="chimp-2.jpg" />
+          <img src="chimp-2.jpg" />
+        </picture>
+      </nft-guard>
+      <figcaption>
+        <a href="https://www.flickr.com/photos/nh53/31656870977" target="_blank">
+          &copy; NH53 under CC-license
+        </a>
+      </figcaption>
+    </figure>
+
+  </div>
+  <div>
+    <figure>
+      <a href="chimp-3.jpg" target="_blank" rel="noopener">
+        <nft-guard>
+          <img src="chimp-3.jpg" alt="" />
+        </nft-guard>
+      </a>
+      <figcaption>
+        <a href="https://www.flickr.com/photos/chesterzoo/3573442816" target="_blank">
+          &copy; Chester Zoo under CC-license
+        </a>
+      </figcaption>
+    </figure>
+  </div>
+
+  <script src="../dist/nft-guard.min.js"></script>
+</body>
+</html>

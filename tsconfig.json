@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "./dist",
+    "target": "es6",
+    "lib": ["es6", "DOM"],
+    "declaration": true,
+    "module": "none",
+    "moduleResolution": "classic",
+    "sourceMap": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "importsNotUsedAsValues": "error",
+    "inlineSources": true,
+    "pretty": true,
+    "skipLibCheck": true
+  },
+  "include": ["./src/*.ts"]
+}
