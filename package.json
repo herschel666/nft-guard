@@ -1,6 +1,6 @@
 {
   "name": "nft-guard",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Prevent downloads of your NFTs with this handy component.",
   "source": "src/nft-guard.ts",
   "main": "dist/nft-guard.min.js",
