@@ -48,6 +48,10 @@ Brought to you by [`@herschel_r`](https://twitter.com/herschel_r) 🐦
 
 ---
 
+## Disclaimer
+
+This is a joke. [#scnr](https://www.urbandictionary.com/define.php?term=SCNR) 🤷‍♂️ Images on the web are downloadable by design.
+
 ## License
 
 The MIT License (MIT)
