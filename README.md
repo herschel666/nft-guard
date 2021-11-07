@@ -1,4 +1,4 @@
-# `<nft-guard>` — Prevent your NFTs from being downloaded
+# `<nft-guard>` — Prevent your NFTs from being right-click downloaded
 
 > Wrap your NFTs into the `<nft-guard>`-element and prevent them from being downloaded by bad actors
 > that down't own them.
@@ -39,7 +39,8 @@ This registers the custom element `<nft-guard>`. You can now start using it in y
 </figure>
 ```
 
-That's it! You're save now, nobody will steal your NFTs. Enjoy your decentralized life. 😎
+That's it! You're save now, evil persons going nuts on their right mouse-button won't be able to
+steal your NFTs anymore. Enjoy your decentralized life. 😎
 
 ---
 
