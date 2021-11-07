@@ -3,7 +3,7 @@
 > Wrap your NFTs into the `<nft-guard>`-element and prevent them from being downloaded by bad actors
 > that down't own them.
 
-> ![The nft-guard element in action securing a NFT](presentation.gif)
+> ![The nft-guard element in action securing a NFT](https://user-images.githubusercontent.com/520258/140641338-86523694-8a42-4c4d-ab0c-19d79ca52f4b.gif)
 
 ## Installation
 
